@@ -1,0 +1,1173 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 6500px;
+}
+.backgroundimg{
+    height: 656px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/HQV-Header-Svartpilen-Vitpilen-MY24:Desktop?wid=1914&hei=1078&dpr=off);
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 1216px;
+    height: 110.8px;
+    padding-top: 40px;
+    padding-left: 40px;
+    display: flex;
+    align-items: center;
+    float: left;
+}
+.menu{
+    width: 405.333px;
+    height: 34.2px;
+    float: left;
+}
+.material-symbols-outlined{
+    color: white;
+    margin-left: -7px;
+    float: left;
+}
+#menulogo{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.89;
+    padding-left: 8px;
+    font-family:"Roboto", sans-serif;
+    color: #fff;
+    float: left;
+    margin-top: 1px;
+}
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+ }
+ .husqlogo{
+    width: 405.333px;
+    height: 110.8px;
+    float: left;
+    display: flex;
+    justify-content: center;
+
+ }
+ .husqlogo img{
+    width: 130px;
+    height: 104px;
+ }
+.locationandglob{
+    width: 405.333px;
+    height: 42px;
+    float: left;
+ } 
+.locationandglobinside{
+    width: 78px;
+    height: 42px;
+    padding-left: 321px;
+    padding-top: 7px;
+    float: left;
+}
+.locationicon{
+    height: 42px;
+    width: 20.7px;
+    padding-top: 3px;
+    float: left;
+    
+}
+.countryicon{
+    height: 42px;
+    width: 20.7px;
+    padding-top: 3px;
+    padding-left: 36px;
+    float: left;
+}
+.firstbody{
+    width: 1196px;
+    height: 500px;
+    padding: 150px 50px 5px;
+}
+.downtoheader{
+    width: 429.783px;
+    height: 191.5px;
+    padding-top: 97px;
+}
+.upper1{
+    width: 429.783px;
+    height: 116.5px;   
+}
+#upperr1{
+    font-family:"Roboto", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.5px; 
+}
+#topupper{
+    font-family:"Roboto", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 500; 
+    line-height: 1px;
+    letter-spacing: 0.6px;
+   
+}
+.explortenowbody{
+     width: 429.783px;
+     width: 75px;
+}
+.explorenow{
+    width: 214px;
+    height: 75px;
+    background-color: #ffed00;
+    border-color: #ffed00;
+    margin-top: 46px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+#explore{
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px 40px;
+    font-family:"Roboto", sans-serif;
+    color: #002550;
+    font-weight: 500;
+    letter-spacing: 0.9px;
+}#explore{
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px 40px;
+    font-family:"Roboto", sans-serif;
+    color: #002550;
+    font-weight: 500;
+    letter-spacing: 0.9px;
+}
+.slidingbars{
+    width: 132px;
+    height: 29px;
+    padding-left: 532px;
+    padding-top: 149px;
+    float: left;
+    display: flex;
+    gap: 4px;
+}
+.slidebar1{
+    width: 40px;
+    height: 3px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-left: 2px;
+}
+.slidebar2{
+    width: 40px;
+    height: 3px;
+    background-color: #ffed00;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.slidebar3{
+    width: 40px;
+    height: 3px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 15px;
+    
+}
+.configuratormain{
+    height: 184px;
+    width: 100%;
+    float: left;
+}
+.configuratorbody{
+    height: 102px;
+    width: 100%;
+    float: left;
+    margin-top: 2px;
+    background-color: rgb(0, 37, 80);
+}
+.configuratorcontentbox{
+    width: 1236px;
+    height: 42px;
+    float: left;
+    padding-top: 29px;
+    padding-left: 30px;
+    display: flex;
+    gap: 90px;
+}
+.configurator{
+    width: 186.167px;
+    height: 42px;
+    float: left;
+    padding-left: 90px;
+}
+.configuratorimg{
+    width: 38px;
+    height: 40px;
+}
+.configuratorimg img{
+    width: 100%;
+    height: 100%;
+}
+.configuratortext{
+    width: 103.16px;
+    height: 16px;
+    padding-left: 60px;
+    margin-top: -41px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    float: left;
+    font-family:"Roboto", sans-serif;
+    color: #fff;
+}
+.dealersearch{
+    width: 195.783px;
+    height: 42px;
+    float: left;
+}
+.dealersearchimg{
+    width: 38px;
+    height: 42px;
+    float: left;
+}
+.dealersearchimg img{
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.dealersearchtext{
+    width: 114px;
+    height: 16px;
+    letter-spacing: 0.3px;
+    padding-left: 60px;
+    margin-top: -42px;
+    font-size: 14px;
+    font-weight: 500;
+    float: left;
+    font-family:"Roboto", sans-serif;
+    color: #fff;
+
+}
+.apparel{
+  width: 110.5px;
+  height: 40px;
+  float: left;
+}
+.apparelimg{
+    width: 38px;
+    height: 40px;
+    float: left;
+}
+.apparelimg img{
+    width: 100%;
+    height: 100%;
+}
+.appareltext{
+    width: 72.5px;
+    height: 16px;
+    letter-spacing: 0.2px;
+    padding-left: 60px;
+    margin-top: -40px;
+    font-size: 14px;
+    font-weight: 500;
+    float: left;
+    font-family:"Roboto", sans-serif;
+    color: #fff; 
+}
+.technical{
+    width: 203.45px;
+    height: 42px;
+    float: left;
+}
+.technicalimg{
+    width: 38px;
+    height: 42px;
+    float: left;
+    padding-left: 45px;
+}
+.technicalimg img{
+    width: 100%;
+    height: 100%;
+}
+.technicaltext{
+    width: 165.45px;
+    height: 16px;
+    letter-spacing: 0.2px;
+    padding-left: 105px;
+    margin-top: -40px;
+    font-size: 14px;
+    font-weight: 500;
+    float: left;
+    font-family:"Roboto", sans-serif;
+    color: #fff; 
+}
+.container{
+    width: 100%;
+    height: 4892px;
+    padding-top: 183px;
+}
+.containerbody{
+    width: 1236px;
+    height: 4892px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.configurenew{
+    width: 1236px;
+    height: 491.567px;
+    float: left;
+}
+.configurenewimg{
+    width: 1236px;
+    height: 411.567px;
+    float: left;
+}
+.configurenewimgbody{
+    width: 1216px;
+    height: 411.567px;
+    padding-left: 10px;
+    float: left;
+
+   
+}
+.configurenewimgbody img{
+    width: 100%;
+    height: 100%;
+   
+}
+.configurenow{
+    width: 237px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    letter-spacing: 1px;
+    margin-top: -218px;
+    margin-left: 80px;
+}
+.configurenowbody{
+    width: 237px;
+    height: 75px;  
+    background-color: #ffed00;
+    border-color: #ffed00;
+    display: flex;
+    align-items: center;
+}
+#config{
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px 40px;
+    font-family:"Roboto", sans-serif;
+    color: #002550;
+    font-weight: 500;
+}
+.videothumnailmain{
+    width: 1236px;
+    height: 763px;
+    float: left;
+}
+.thumnailimgbase{
+    width: 1216px;
+    height: 683.383px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.thumnailimg{
+    width: 1216px;
+    height: 683.383px;
+    float: left;
+}
+.thumnailimg img{
+    width: 100%;
+    height: 100%; 
+}
+.thumnaildiscri{
+    width: 404px;
+    height: 144px;
+    float: left;
+}
+.thumnaildiscribody{
+    width: 422px;
+    height: 144px;
+    float: left;
+}
+#thumnaildiscri1{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    color: #fff;
+    font-family:"Roboto", sans-serif;
+    margin-top: -414px;
+    margin-left: 60px;
+}
+.playicon{
+    width: 144px;
+    height: 144px;
+    float: left;
+    margin-top: -434px;
+    margin-left: 117px;
+}
+.playiconyellow{
+    width: 144px;
+    height: 144px;
+    float: left;   
+}
+.bikecategories{
+    width: 1236px;
+    height: 1134.33px;
+    float: left;
+}
+.bikecategorieslist{
+    width: 1216px;
+    height: 604.467px;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    display: flex;
+    gap: 20px;
+}
+.motocross{
+    width: 186px;
+    height:604.467px;
+    float: left;
+}
+.motohead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.mototitle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#moto1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.motounderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.motoimg{
+    width: 186px;
+    height: 413.267px;
+}
+.motoimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline1{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.enduro{
+    width: 186px;
+    height:604.467px;
+}
+.endurohead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.endurotitle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#enduro1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.endurounderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.enduroimg{
+    width: 186px;
+    height: 413.267px;
+}
+.enduroimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline2{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.travel{
+    width: 186px;
+    height:604.467px;
+}
+.travelhead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.traveltitle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#travel1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.travelunderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.travelimg{
+    width: 186px;
+    height: 413.267px;
+}
+.travelimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline3{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.naked{
+    width: 186px;
+    height:604.467px;
+}
+.nakedhead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.nakedtitle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#naked1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.nakedunderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.nakedimg{
+    width: 186px;
+    height: 413.267px;
+}
+.nakedimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline4{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.supermoto{
+    width: 186px;
+    height:604.467px;
+}
+.supermotohead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.supermototitle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#supermoto1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.supermotounderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.supermotoimg{
+    width: 186px;
+    height: 413.267px;
+}
+.supermotoimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline5{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.emini{
+    width: 186px;
+    height:604.467px;
+}
+.eminihead{
+    width: 186px;
+    height: 111.2px;
+    float: left;
+}
+.eminititle{
+    height: 31.2px;
+    width: 186px;
+    float: left;
+}
+#emini1{
+    color: #002550;
+    font-size: 27px;
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.eminiunderline{
+    height: 80px;
+    width: 186px;
+    float: left;
+}
+.eminiimg{
+    width: 186px;
+    height: 413.267px;
+}
+.eminiimg img{
+    width: 100%;
+    height: 100%;
+}
+.underline6{
+    width: 186px;
+    height: 1px;
+    background-color: yellow;
+    float: left;
+    margin-top: 6px;
+
+}
+.maintwobike{
+    width: 1216px;
+    height: 528.5px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    gap: 20px;
+}
+.vitpilen{
+    width: 598px;
+    height: 448.5px;
+    margin-top: -2px;
+    float: left;
+}
+.vitpilenimg{
+    width: 598px;
+    height: 448.5px;
+    float: left;  
+}
+.vitpilenimg1{
+    width: 598px;
+    height: 448.5px;
+    float: left;  
+
+}
+.vitpilenimg1 img{
+    width: 100%;
+    height: 100%;
+}
+.lightfoot{
+    width: 230px;
+    height: 60px;
+    float: left;
+    margin-top: -303px;
+    padding-left: 80px;
+}
+.lightfoot1{
+    width: 230px;
+    height: 60px;
+    float: left;
+}
+#l1{
+    font-size: 39px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family:  "Roboto", sans-serif;
+    color: #fff;
+    cursor: pointer;
+}
+#v1{
+ font-size: 16px; 
+ font-family:  Helvetica, sans-serif;
+ color: #fff;
+ margin-top: -19px;
+ letter-spacing: 0.2px;
+ cursor: pointer;
+}
+.svartpilen{
+    width: 598px;
+    height: 448.5px;
+    float: left;
+    margin-top: -2px;
+}
+.svartpilenimg{
+    width: 598px;
+    height: 448.5px;
+    float: left;  
+}
+.svartpilenimg img{
+    width: 100%;
+    height: 100%;
+}
+.backroad{
+    width: 345px;
+    height: 60px;
+    float: left;
+    margin-top: -303px;
+    padding-left: 80px;
+}
+.backroad1{
+    width: 345px;
+    height: 60px;
+    float: left;
+}
+#b1{
+    font-size: 39px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family:  "Roboto", sans-serif;
+    color: #fff;
+    cursor: pointer;
+}
+#s1{
+    font-size: 16px; 
+    font-family:  Helvetica, sans-serif;
+    color: #fff;
+    margin-top: -19px;
+    letter-spacing: 0.2px;
+    cursor: pointer;
+}
+.blankspace{
+    width: 1236px;
+    height: 81px;
+    float: left;
+}
+.availabledate{
+    width: 1236px;
+    height: 728.3px;
+    float: left;
+}
+.availablelist{
+    width: 1216px;
+    height: 648.3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    gap: 48px;
+}
+.vitpilensvartpilen{
+    width: 373.167;
+    height: 728.3px;
+    float: left;
+}
+.vitsvartimg{
+    width: 373.167px;
+    height: 373.167px;
+}
+.vitsvartimg img{
+    width: 100%;
+    height: 100%;
+}
+.vitsvartdiscri{
+    height: 249.217px;
+    width: 373.167px;
+}
+.date{
+    width: 94.5px;
+    height: 26px;
+}
+#da1{
+    font-size: 1em;
+    font-weight: 501;
+    color: #002550;
+    font-family:  Helvetica, sans-serif;
+    line-height: 1.6;
+}
+.maindiscri{
+   width:373.167px ;
+   height: 98px;
+}
+#about{
+    font-weight: 501;
+    font-size: 25px;
+    line-height: 1.35;
+    margin-top: 9px;
+    color: #002550;
+    font-family:  Helvetica, sans-serif;
+}
+.yellowlineu{
+    width: 295px;
+    height: 1px;
+    background-color: yellow;
+    margin-top: 10px;
+}
+.finaldiscri{
+    width: 373.167px;
+    height: 103.667px;
+}
+#fd1{
+    font-size: 16px;
+    font-weight: 1;
+    color: #002550;
+    line-height: 1.6;
+    font-family:  Helvetica, sans-serif; 
+    margin-top: 16px;
+}
+.newapparel{
+    width: 1236px;
+    height: 774.85px;
+    float: left;
+  
+}
+.newapparelimg{
+    width: 1216px;
+    height: 694.85px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/HQV-Apparel-Launch-2024-Website-Banner-1920-1200:Large?wid=1260&hei=720&dpr=off);
+    background-size: 1216px 694.85px;
+}
+.newappareltextlarge{
+    width: 385px;
+    height: 130px;
+}
+#ap1{
+    font-family:  "Roboto", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #fff;
+    margin-top: -541px;
+    padding-left: 90px;
+    letter-spacing: 0.6px;
+}
+#ap2{
+   font-family:  "Roboto", sans-serif ;
+   color: #fff;
+   font-size: 16px;
+   margin-top: -26px;
+   padding-left: 90px;
+   font-weight: 301;
+}
+.discover{
+    width: 173.35px;
+    height: 75px;
+
+}
+.discoverbase{
+    width: 173.35px;
+    height: 75px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-top: -287px;
+    margin-left: 90px;
+}
+#ap3{
+    font-size: 18px;
+    line-height: 28px;
+    padding: 20px 40px;
+    font-family:"helvica", sans-serif;
+    color: #002550;
+    font-weight: 500;
+}
+.newsletter{
+    width: 1236px;
+    height: 155px;
+    float: left;
+
+}
+.newsletterbody{
+    width: 1216px;
+    height: 75px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -25px;
+}
+#newl1{
+    font-size: 22px;
+    font-family:  "Roboto", sans-serif ;
+    font-weight: 500;
+    color: #002550;
+    padding-left: 259px;
+    padding-top: 28px;
+    letter-spacing: 0.7px
+}
+.subscribe1{
+    height: 75px;
+    width: 234px;
+    background-color: rgb(0, 37, 80);
+    margin-left: 743px;
+    margin-top: -74px;
+    float: left;
+}
+#new2{
+    font-size: 19px;
+    font-family:  "Roboto", sans-serif;
+    color: #fff;
+    padding-left: 42px;
+    letter-spacing: 0.5px;
+    font-weight: 401; 
+}
+.thejourney{
+    width: 1236px;
+    height: 683.383px;
+    float: left;
+}
+.thejourneybody{
+    width: 1216px;
+    height: 683.383px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-image: url(https://s7g10.scene7.com/is/image/ktm/IN-history-teaser2:Large?wid=1260&hei=717&dpr=off);
+    background-size: 1216px 683.383px;
+}
+.playicond{
+    padding-left: 518px;
+    margin-top: -160px;
+}
+#jd1{
+    font-size: 37px;
+    font-family:  "helvica", sans-serif;
+    color: #fff;
+    font-weight: 500; 
+    padding-top: 263px;
+    padding-left: 61px;
+}
+.blankspace1{
+    width: 100%;
+    height: 81px;
+    float: left;
+}
+.greyline{
+    width: 1296px;
+    height: 1px;
+    background-color: lightgrey;
+    margin-top: 80px;
+    margin-left: -30px;
+    float: left;
+}
+.footer{
+    width: 1276px;
+    height: 736.717px;
+}
+.topfooter{
+    height: 225.033px;
+    width: 1296px;
+}
+#foot1{
+    padding-top: 28px;
+    line-height: 1.6;
+    text-align: center;
+    font-weight: 300;
+    font-size: .75em;
+    color: #d0d0d0;
+    font-family: "Roboto", sans-serif;
+}
+.c-footer{
+    width: 1276px;
+    height: 532.683px;
+    color: #002550;
+    background-color: #f2f2f2;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.c-container{
+    width: 1216px;
+    height: 511.683px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.c-list{
+    display: flex;
+    gap: 117px;
+    padding-top: 90px;
+}
+.c-list1{
+    height:273.817px ;
+    width: 137.217px;
+    float: left;
+
+}
+.c-head{
+    font-family: "Roboto" ,sans-serif;
+    font-size: 17px;
+    color: black;
+    font-weight: 400;
+    margin: 0;
+}
+.c-lista{
+    width: 137.217px;
+    height: 231.417px;
+    padding-top: 15px;
+    float: left;
+    list-style: none;
+}
+.li1{
+    margin-top:11px;
+    font-family:  "Roboto" ,sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1;
+}
+.c-list2{
+    width: 113.357;
+    height: 273.817;
+}
+.c-list3{
+    width: 164.833px;
+    height: 273.817px;
+}
+.c-list4{
+    width: 94.55px;
+    height: 273.817px;
+}
+.c-list5{
+    height: 273.817px ;
+    width: 212.833px;
+}
+.c-icon{
+    width: 243px;
+    height: 50px;
+    float: left;
+    display: flex;
+    padding-top: 28px;
+    margin-left: -4px;
+    gap: 8px;
+}
+.facebook{
+    width: 53px;
+    height: 50px;
+}
+.facebookimg{
+    width: 35px;
+    height: 35px;
+}
+.facebookimg img{
+    width: 100%;
+    height: 100%;
+}
+.instagram{
+    width: 53px;
+    height: 50px;
+}
+.instagramimg{
+    width: 35px;
+    height: 35px;
+}
+.instagramimg img{
+    width: 100%;
+    height: 100%;
+}
+.youtube{
+    width: 53px;
+    height: 50px;
+}
+.youtubeimg{
+    width: 35px;
+    height: 35px;
+}
+.youtubeimg img{
+    width: 100%;
+    height: 100%;
+}
+.twitter{
+    width: 53px;
+    height: 50px;
+}
+.twitterimg{
+    width: 35px;
+    height: 35px;
+}
+.twitterimg img{
+    width: 100%;
+    height: 100%;
+}
+.greyline2{
+    width: 100%;
+    height: 1px;
+    background-color: lightgrey;
+    margin-top: 29px;
+}
+.finalmain{
+    width: 100%;
+    height: 39px;
+    padding-top: 40px;
+    float: left;
+}
+.copyright{
+    width: 500px;
+    height: 39px;
+    font-size: 12px;
+    font-weight: 301;
+    font-family: "Roboto" ,sans-serif;
+    color:   rgb(0, 37, 80);
+    float: left;
+}
+.backtop{
+    width: 158px;
+    height: 30px;
+    padding-left: 1055px;
+    font-family: "helvica" ,sans-serif;
+    font-size: 21px;
+    font-weight: 401;
+    color: rgb(0, 37, 80);
+    float: left;
+    margin-top: -46px;
+}
+#uparrow{
+    color: rgb(0, 37, 80);
+    font-size: 35px;
+    padding-left: 127px;
+    margin-top: -56px;
+}
